@@ -28,4 +28,4 @@ EE means the instruction's complement and AC is the accumulator register.
 
 ## Loading programs
 
-Right click the RAM in Logisim and select the option to load content. There are tests programs in the `tests` directory.
+Right click the RAM in Logisim and select the option to load content. There are test programs in the `tests` directory.
